@@ -1,0 +1,8 @@
+langchain-ollama
+pypdf
+langchain-community
+scikit-learn
+chromadb
+langchain 
+langchain-text-splitters
+streamlit
